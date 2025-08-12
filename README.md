@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Static-website-using-Github_Pages
-
-![Website link](rakshitmalik136.github.io/Static-website-using-Github_Pages)
-=======
 ***Task 6 – Host a Static Website with GitHub Pages***
 ---
 Objective
@@ -47,6 +42,3 @@ https://<your-username>.github.io/<your-repo-name>/
 - You can instantly deploy websites directly from your GitHub repository.
 - Perfect for portfolios, resumes, and small projects.
 - Easy to update — just push changes to the repo
-
-
->>>>>>> f1db8b1 (Added readme file)
